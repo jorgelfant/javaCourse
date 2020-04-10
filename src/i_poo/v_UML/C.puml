@@ -1,0 +1,35 @@
+@startuml
+
+abstract class AbstractList
+
+abstract AbstractCollection{
+public AbstractCollection()
+private int hola
+
+public setHola(int hola)
+
+
+}
+
+interface List
+interface Collection
+
+List <|-- AbstractList
+Collection <|-- AbstractCollection
+
+Collection <|- List
+AbstractCollection <|- AbstractList
+AbstractList <|-- ArrayList
+
+class ArrayList {
+Object[] elementData
+size()
+}
+
+enum TimeUnit {
+DAYS
+HOURS
+MINUTES
+}
+
+@enduml
