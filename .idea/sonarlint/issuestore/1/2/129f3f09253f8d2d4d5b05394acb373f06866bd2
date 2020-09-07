@@ -1,0 +1,45 @@
+
+V	java:S125u"<This block of commented-out lines of code should be removed.(ïº‹íýÿÿÿÿ
+R
+java:S1854–";Remove this useless assignment to local variable "villeC2".(¿øà—
+O	java:S106”"9Replace this use of System.out or System.err by a logger.(Ê…Ýè
+h
+java:S1192"MDefine a constant instead of duplicating this literal " d'habitants" 6 times.(½•Õüÿÿÿÿ
+V	java:S125W"<This block of commented-out lines of code should be removed.(¹â÷ ûÿÿÿÿ
+Q
+java:S1854š";Remove this useless assignment to local variable "villeC3".(Ñƒ‚
+H
+java:S1481’",Remove this unused "villeC1" local variable.(˜½šøÿÿÿÿ
+S	java:S106m"9Replace this use of System.out or System.err by a logger.(ÊÒ¹•ûÿÿÿÿ
+S	java:S106-"9Replace this use of System.out or System.err by a logger.(ˆ™Ý€þÿÿÿÿ
+Q	java:S125J"<This block of commented-out lines of code should be removed.(ˆ…ÅÍ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(£§÷ö
+S	java:S106;"9Replace this use of System.out or System.err by a logger.(ˆ™Ý€þÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Á”ÞÖ
+n
+java:S1192"SDefine a constant instead of duplicating this literal " ville situÃ©e au " 6 times.(ˆ™Ý€þÿÿÿÿ
+M	java:S106q"9Replace this use of System.out or System.err by a logger.(‘©Ú!
+N	java:S106>"9Replace this use of System.out or System.err by a logger.(£§÷ö
+O	java:S106œ"9Replace this use of System.out or System.err by a logger.(Ê…Ýè
+e
+java:S1192"JDefine a constant instead of duplicating this literal "ville1 = " 3 times.(ˆ™Ý€þÿÿÿÿ
+V	java:S125H"<This block of commented-out lines of code should be removed.(è¨ÀÌüÿÿÿÿ
+O	java:S106˜"9Replace this use of System.out or System.err by a logger.(Ê…Ýè
+T	java:S106›"9Replace this use of System.out or System.err by a logger.(ÀŽ™…ûÿÿÿÿ
+N	java:S106o"9Replace this use of System.out or System.err by a logger.(©’ýš
+T	java:S106—"9Replace this use of System.out or System.err by a logger.(ÀŽ™…ûÿÿÿÿ
+N	java:S1060"9Replace this use of System.out or System.err by a logger.(£§÷ö
+S	java:S106n"9Replace this use of System.out or System.err by a logger.(Š¨£Öúÿÿÿÿ
+V	java:S125	"<This block of commented-out lines of code should be removed.(Éðóëüÿÿÿÿ
+`
+java:S1192"JDefine a constant instead of duplicating this literal "ville2 = " 3 times.(£§÷ö
+Œ
+java:S1192“"pDefine a constant instead of duplicating this literal "Le nombre d'instances de la classe Ville est : " 6 times.(ÀŽ™…ûÿÿÿÿ
+C
+java:S1481–",Remove this unused "villeC2" local variable.(¿øà—
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ˆ™Ý€þÿÿÿÿ
+W
+java:S1854’";Remove this useless assignment to local variable "villeC1".(˜½šøÿÿÿÿ
+T	java:S106“"9Replace this use of System.out or System.err by a logger.(ÀŽ™…ûÿÿÿÿ
+B
+java:S1481š",Remove this unused "villeC3" local variable.(Ñƒ‚

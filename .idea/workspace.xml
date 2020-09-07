@@ -1,8 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="5392bd60-95ba-4ff9-bec3-8a45ad7141f5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/2/129f3f09253f8d2d4d5b05394acb373f06866bd2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/a/1a7a8d6b50ec353f31b869b6ba2e0fea9b0d48a4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/4/8432036b79f6e5a684eb9e70b3e0c6f52b282dcf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/4/e494a0fa5a0089fe2548f19e168fedfd2b05d3b0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/8/f812c7858f0b88090810f45b88d19414c31e8380" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,6 +41,31 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="master" />
+                    <option name="lastUsedInstant" value="1586970992" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="test" />
+                    <option name="lastUsedInstant" value="1586970443" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
   </component>
   <component name="GithubPullRequestsUISettings">
     <option name="hiddenUrls">
@@ -26,13 +81,50 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql&#10;oracle" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../dockerSencillo" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsDialog.application.dockerMachine" />
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="ShConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Docker Image" type="docker-deploy" factoryName="docker-image" server-name="Docker">
+      <deployment type="docker-image">
+        <settings>
+          <option name="imageTag" value="centos:latest" />
+          <option name="command" value="" />
+          <option name="containerName" value="cliente" />
+          <option name="entrypoint" value="" />
+          <option name="commandLineOptions" value="" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Docker.Docker Image" />
+        <item itemvalue="Docker.Docker Image" />
+        <item itemvalue="Docker.Docker Image" />
+        <item itemvalue="Docker.Docker Image" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -47,11 +139,19 @@
       <workItem from="1586447377374" duration="2397000" />
       <workItem from="1586501799446" duration="7148000" />
       <workItem from="1586519777627" duration="240000" />
+      <workItem from="1587131801954" duration="783000" />
+      <workItem from="1587375897241" duration="330000" />
+      <workItem from="1587376243670" duration="7903000" />
+      <workItem from="1587395570025" duration="2392000" />
+      <workItem from="1587399072695" duration="2171000" />
+      <workItem from="1587401706659" duration="4245000" />
+      <workItem from="1587407278355" duration="27690000" />
+      <workItem from="1587550319570" duration="9387000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -83,20 +183,7 @@
         </entry>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="FILTERS">
-                <map>
-                  <entry key="branch">
-                    <value>
-                      <list>
-                        <option value="testo2" />
-                      </list>
-                    </value>
-                  </entry>
-                </map>
-              </option>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
@@ -116,12 +203,73 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="265" y="530" key="#Docker" timestamp="1587543838585">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="265" y="530" key="#Docker/0.0.2560.1400@0.0.2560.1400" timestamp="1587543838585" />
+    <state x="163" y="641" width="1521" height="743" key="#Docker_Image" timestamp="1587550504410">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="163" y="641" width="1521" height="743" key="#Docker_Image/0.0.2560.1400@0.0.2560.1400" timestamp="1587550504410" />
+    <state x="592" y="792" key="#Notifications" timestamp="1587550973426">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="592" y="792" key="#Notifications/0.0.2560.1400@0.0.2560.1400" timestamp="1587550973426" />
+    <state x="746" y="716" key="#Push_Image" timestamp="1587399015883">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="746" y="716" key="#Push_Image/0.0.2560.1400@0.0.2560.1400" timestamp="1587399015883" />
+    <state x="373" y="110" key="#SSH_Configurations" timestamp="1587482695401">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="373" y="110" key="#SSH_Configurations/0.0.2560.1400@0.0.2560.1400" timestamp="1587482695401" />
+    <state x="389" y="123" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587575884325">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="389" y="123" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1587575884325" />
     <state x="1591" y="651" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1586521274597">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1591" y="651" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1586521274597" />
+    <state x="362" y="407" key="FileChooserDialogImpl" timestamp="1587723078617">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="362" y="407" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1587723078617" />
+    <state width="1022" height="230" key="GridCell.Tab.0.bottom" timestamp="1587481239740">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1022" height="230" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1587481239740" />
+    <state width="1022" height="230" key="GridCell.Tab.0.center" timestamp="1587481239740">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1022" height="230" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1587481239740" />
+    <state width="1022" height="230" key="GridCell.Tab.0.left" timestamp="1587481239740">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1022" height="230" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1587481239740" />
+    <state width="1022" height="230" key="GridCell.Tab.0.right" timestamp="1587481239740">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1022" height="230" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1587481239740" />
+    <state width="198" height="539" key="HiddenNamespacesPopup" timestamp="1587480807880">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="198" height="539" key="HiddenNamespacesPopup/0.0.2560.1400@0.0.2560.1400" timestamp="1587480807880" />
+    <state x="83" y="297" key="SettingsEditor" timestamp="1587543014080">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="83" y="297" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1587543014080" />
+    <state x="572" y="763" width="488" height="255" key="com.intellij.docker.deployment.ui.DockerPortBindingsField.v173.dialogSize" timestamp="1587549715991">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="572" y="763" width="488" height="255" key="com.intellij.docker.deployment.ui.DockerPortBindingsField.v173.dialogSize/0.0.2560.1400@0.0.2560.1400" timestamp="1587549715991" />
+    <state x="552" y="824" width="646" height="271" key="com.intellij.docker.deployment.ui.DockerVolumeBindingsField.v173.dialogSize" timestamp="1587543650580">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="552" y="824" width="646" height="271" key="com.intellij.docker.deployment.ui.DockerVolumeBindingsField.v173.dialogSize/0.0.2560.1400@0.0.2560.1400" timestamp="1587543650580" />
     <state x="571" y="555" key="com.intellij.ide.util.TipDialog" timestamp="1586521201128">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
